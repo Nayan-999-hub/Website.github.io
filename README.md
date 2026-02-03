@@ -12,4 +12,4 @@ This project is designed as a starting point for building an interactive nutriti
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-username.github.io
+   git clone https://github.com/Nayan-999/Website.github.io
